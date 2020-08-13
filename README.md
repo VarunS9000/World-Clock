@@ -17,3 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 
 This application helps to fetch date and time across 348 timezones
 The main motive to build this application was to get comfortable with dart and flutter.
+
+Check the screens folder for snapshots of app
