@@ -1,21 +1,11 @@
-# world_clock
+# World Clock 
 
-A new Flutter application.
+Flutter Application which shows time around the world.
 
-## Getting Started
+## Features
+- Home Button which shows time at your location
+- Search Button to find timing in the specific features
+- Changing Backgrounds
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-This application helps to fetch date and time across 348 timezones
-The main motive to build this application was to get comfortable with dart and flutter.
-
-Check the screens folder for snapshots of app
+## Screenshots
+![1](https://user-images.githubusercontent.com/45462725/95008171-19c05300-0635-11eb-967f-6399c2022e64.png)       ![2](https://user-images.githubusercontent.com/45462725/95008173-1c22ad00-0635-11eb-9371-6cc9944de8ee.png)         ![3](https://user-images.githubusercontent.com/45462725/95008174-1e850700-0635-11eb-8336-18e293a085a7.png)
